@@ -26,7 +26,8 @@
 </div>
 <br><br>
 <div align=center>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kdhgby)](https://solved.ac/kdhgby)
 </div>
 <div align=center>
    <h4>🎀 Contact 🎀</h4>
