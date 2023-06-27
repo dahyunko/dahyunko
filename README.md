@@ -53,7 +53,7 @@
    <a href="mailto:dahyunbless@gmail.com">
       <img src="https://img.shields.io/badge/GMail-FF3633?style=flat&logo=Gmail&logoColor=white" />
    </a>
-   <a href="https://www.notion.so/703198892a2e4afda0ce35682b20f956">
+   <a href="https://www.notion.so/531c4a6285074ba9b9dccbda1ac2b81a?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
    <br>
