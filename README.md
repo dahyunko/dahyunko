@@ -21,10 +21,10 @@
    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
-   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+<!--    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> -->
    <br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+<!--    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> -->
 
 </div>
 <br><br>
