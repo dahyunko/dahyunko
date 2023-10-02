@@ -4,8 +4,7 @@
 
 <div align=center>
    <h4>✔️ 
-	   <a href = "https://dahyunko.github.io/">Portfolio</a>
-	확인해주세요!
+	   <a href = "https://dahyunko.github.io/">Portfolio 확인(클릭)해주세요!</a>
    </h4>
 </div>
 
