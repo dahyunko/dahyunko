@@ -5,7 +5,7 @@
 <div align=center>
    <h4>✔️ 
 	   <a href = "https://dahyunko.github.io/">Portfolio</a>
-	확인하기
+	확인해주세요!
    </h4>
 </div>
 
