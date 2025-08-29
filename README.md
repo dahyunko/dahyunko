@@ -74,20 +74,11 @@
 
 ## 👋 About Me
 - Backend Developer  
-- 금융·보험 시스템 개발 경험 (롯데손해보험)  
-- Spring Boot · Oracle · AWS · Docker 기반 개발  
-- **업무 자동화 · 프로세스 최적화**에 집중합니다  
 
 ## 🏢 Experience
 - **롯데손해보험** — Backend Developer (2025.02 ~ Present)  
 - **SSAFY 11기** (2024.01 ~ 2024.12)  
 - **세종대학교 컴퓨터공학과** (2021.03 ~ 2024.02)  
-
-## 🏆 Awards
-- 신한은행 해커톤 **최우수상** (2024)  
-- SSAFY 프로젝트 수상 (2024)  
-- 세종대 학술제 **최우수상** (2022)  
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dahyunko&show_icons=true" />
